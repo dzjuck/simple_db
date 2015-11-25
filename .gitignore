@@ -1,0 +1,3 @@
+.DS_Store
+.byebug_history
+spec/fixtures/data/10m_rows.csv
